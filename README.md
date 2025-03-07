@@ -14,7 +14,7 @@ At the start of each month, set your budget, and the app will divide it into a d
 # Teck Stack
 ## Frontend:
 - *Framework*: ReactJS
-- *UI Library*: TailwindCSS, Ant Design 
+- *UI Library*: TailwindCSS, daisyUI
 - *Deployment*: Netlify
 ## Backend:
 - *Framework*: NestJS
